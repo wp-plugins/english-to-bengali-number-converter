@@ -5,7 +5,7 @@ Plugin URI:  http://www.timenews24.com/plugin/English-To-Bengli-Number-Convert.z
 Description: This plugin will help users  convert English to Bengali Date,Time and All Numbers  with pure Php.
 Author: Ruhul Amin
 Author URI: http://ruhul.me
-Version: 1.1.1
+Version: 1.1.2
 */
 
 /* Adding plugin convert section  */
