@@ -4,7 +4,7 @@ Donate link:
 Tags: Bengali Date,Bengali time,Bengali all number,
 Requires at least: 3.00
 Tested up to: 3.9.1
-Stable tag: 1.2.5
+Stable tag: 1.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
